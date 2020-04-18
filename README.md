@@ -1,6 +1,6 @@
 # AnkamaAccountChecker
 
-Usefull to check accounts from a 
+Usefull to check ANKAMA accounts
 
 ## Getting Started
 
