@@ -6,6 +6,6 @@ Usefull to check ANKAMA accounts
 
 Create a ```ankama-accounts.txt``` and insert all accounts with the format -> account:password
 
-## Built With
+## Prerequisites
 
 * [Cloudscraper](https://pypi.org/project/cloudscraper/) - To bypass cloudflare
